@@ -3,7 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "edge.microsoft.com"
+        "edge.microsoft.com",
+        "lingxing.com",
+        "lingxingerp.com",
+        "distributetop.com"
     
       ]
     }
