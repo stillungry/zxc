@@ -4,7 +4,11 @@
     {
       "domain_suffix": [
         "copilot.microsoft.com",
-        "copilot.com"
+        "copilot.com",
+        "vo.msecnd.net",
+        "challenges.cloudflare.com",
+        "raw.githubusercontent.com",
+        "studiostaticassetsprod.azureedge.net"
       ]
     }
   ]
