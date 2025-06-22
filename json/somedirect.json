@@ -23,7 +23,8 @@
 "msedge.net",
 "officeclient.microsoft.com",
 "msftconnecttest.com",
-"msftncsi.com"
+"msftncsi.com",
+        "vc-gate-edge.ndcpp.com"
       ]
     }
   ]
