@@ -1,0 +1,22 @@
+payload:
+  - +.edge.microsoft.com
+  - +.events.data.microsoft.com
+  - +.edge.activity.windows.com
+  - +.cloudmessaging.edge.microsoft.com
+  - +.edge-sync.microsoft.com
+  - +.edgeservices.bing.com
+  - +.api.edge.microsoft.com
+  - +.sync.edge.microsoft.com
+  - +.graph.microsoft.com
+  - +.microsoftedge.microsoft.com
+  - +.msedge.api.cdp.microsoft.com
+  - +.msedge.api.bing.com
+  - +.vortex.data.microsoft.com
+  - +.settings-win.data.microsoft.com
+  - +.watson.telemetry.microsoft.com
+  - +.telemetry.microsoft.com
+  - +.msedge.net
+  - +.officeclient.microsoft.com
+  - +.msftconnecttest.com
+  - +.msftncsi.com
+  - +.vc-gate-edge.ndcpp.com
