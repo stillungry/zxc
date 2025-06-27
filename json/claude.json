@@ -4,7 +4,11 @@
     {
       "domain_suffix": [
         "claude.ai",
-        "anthropic.com"
+        "anthropic.com",
+"intercom.io",
+"intercomcdn.com",
+"stripe.com",
+"stripe.network"
       ]
     }
   ]
