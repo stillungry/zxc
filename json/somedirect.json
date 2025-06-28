@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "lingxing.com",
+"lingxingerp.com",
+"distributetop.com",
         "edge.microsoft.com",
         "events.data.microsoft.com",
         "edge.activity.windows.com",
