@@ -5,7 +5,10 @@
       "domain": "pplx-res.cloudinary.com",
       "domain_suffix": [
         "perplexity.ai",
-        "pplx.ai"
+        "pplx.ai",
+        "stripe.network",
+        "fscdn.eppo.cloud",
+        "m.stripe.network"
       ]
     }
   ]
